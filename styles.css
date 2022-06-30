@@ -41,3 +41,17 @@ button {
     height: auto;
     display: inline-block;
 }
+
+h2 {
+    color:azure;
+}
+
+p,
+ul,
+ol{
+    color: rgb(140, 240, 240);
+}
+
+a{
+    color: violet;
+}
