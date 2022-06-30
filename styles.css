@@ -1,0 +1,43 @@
+h1{
+    font-family: Calibri, sans-serif;
+    text-align: center;
+    color: rgb(22, 24, 23);
+    background-color: rgb(255, 255, 255);
+}
+
+/*
+.grid {
+    
+        border: 5px solid var(--clr-primary);
+        width: 80%;
+        max-width: 800px;
+        height: 25vh;
+        margin: 0 auto;
+    
+
+    height: 15vh;
+    display: grid;
+    place-items: center;
+}
+
+*/
+
+body{
+    background-color: rgb(18, 29, 94);
+}
+
+.container {
+    margin: 0 auto;
+    width: 656px;
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+}
+
+.space{
+    width: 4px;
+    height: auto;
+    display: inline-block;
+}
